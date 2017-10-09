@@ -38,7 +38,7 @@ public class JobHistory{
 		return jobId;
 	}
 
-	public void setJobId(String jobId) {
+	public void setJobId(String jobId)  {
 		this.jobId = jobId;
 	}
 
